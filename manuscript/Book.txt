@@ -1,2 +1,5 @@
-Preface.md
-Leanpub Book Format.md
+00-Preface.md
+01-Communication.md
+02-Task_Management.md
+03-Source_Control.md
+04-Java_Development.md
